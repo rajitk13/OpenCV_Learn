@@ -4,7 +4,8 @@ img = cv.imread('Photos/cat_large.jpg')
 
 
 # Reading Images in opencv
-# cv.imshow('Cat', img)
+cv.imshow('Cat', img)
+cv.waitKey(0)
 #
 # cv.waitKey(0)
 
@@ -22,5 +23,4 @@ img = cv.imread('Photos/cat_large.jpg')
 # cv.destroyAllWindows()
 # cv.waitKey(100)
 
-# Rescaling vidoe frames
-
+# Rescaling video frames

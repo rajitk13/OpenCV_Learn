@@ -11,3 +11,8 @@ Learn Topics
 6. Bitwise 
 7. Smoothing
 8. Contours
+9. Histogram 
+10. Masking 
+11. Gradients
+12. Transformations
+13. Video Face Detect ( Final Purpose )
